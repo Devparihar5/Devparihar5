@@ -30,7 +30,7 @@
 ###output
 
     Name : Devendra Parihar
-    Result : Devendra Parihar is a Machine Learning Engineer & Beginner Data Scientist.
+    Result : Devendra Parihar is a Intermediate Level Machine Learning Engineer & Data Scientist.
     
 
 
