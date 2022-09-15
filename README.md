@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devendra Parihar</h1>
-## 💫 About Me:
+
+# 💫 About Me:
 🔭 I’m Currently Preparing For Machine Learning Engineer.<br>🌱 I’m currently Exploring Hackathons & Coding Competitions.<br>🤔 Working On Improving My Skills.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: www.devendraparihar.engineer<br>😄 Pronouns: He/His<br>⚡ Fun fact: An Average Stage Performer.
 
 
